@@ -1,7 +1,7 @@
 # 📊 E-Commerce Sales Analysis — Advanced Power BI Dashboard with SQL & Excel
 
 ## 🔗 Project Links
-- GitHub Repository: [https://github.com/your-username/Ecommerce-sales-analysis](https://github.com/jyothirmayiL-insights/Ecommerce-sales-analysis)
+- GitHub Repository: (https://github.com/jyothirmayiL-insights/Ecommerce-sales-analysis)
 
 ## 📸 Dashboard Preview
 ![Dashboard](Images/Sales_Overview.png)
