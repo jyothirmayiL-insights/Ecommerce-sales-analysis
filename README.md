@@ -1,30 +1,93 @@
-# 🛒 E-Commerce Revenue Analysis — SQL & Power BI & Looker Studio
+# 📊 E-Commerce Sales Analysis — Advanced Power BI Dashboard with SQL & Excel
 
-> End-to-end Indian e-commerce sales analysis covering 501 orders worth ₹4.31 Lakhs across 3 product categories and 20+ Indian states.
+## 📸 Dashboard Preview
 
----
+![Dashboard](Images/Sales_Overview.png)
+
+End-to-end analysis of an Indian e-commerce dataset comprising 501 orders worth ₹4.31 Lakhs, spanning 3 product categories across 20+ states.
 
 ## 📌 Project Overview
 
-| Field | Details |
-|-------|---------|
-| Domain | E-Commerce / Retail Analytics |
-| Tools | SQL · Excel · Power BI|
-| Dataset | Indian E-Commerce Sales — Kaggle (Ben Roshan) |
-| Period | April 2018 – March 2019 |
-| Role | Data Analyst |
+This project delivers an end-to-end analysis of an e-commerce dataset to identify key revenue drivers, customer behavior patterns, and product performance trends.
+An interactive Power BI dashboard was developed to enable stakeholders to monitor KPIs, analyze business performance, and support data-driven decision-making.
+
+---
+
+## 🚀 Key Features
+
+- Performed end-to-end data analysis using SQL, Excel, and Power BI  
+- Developed an interactive dashboard with dynamic filtering using slicers and user controls  
+- Designed custom KPI cards using HTML formatting to enhance visual presentation  
+- Implemented Month-over-Month (MoM) revenue analysis using SQL queries  
+- Conducted category-wise and state-wise performance analysis to identify key trends  
+- Generated actionable business insights to support data-driven decision-making
+  
+---
+
+## 🛠 Tools Used
+
+- **SQL** – Data extraction, joins, aggregations, and analytical queries  
+- **Excel** – Data cleaning, preprocessing, and exploratory analysis  
+- **Power BI** – Data modeling, DAX measures, and interactive dashboard design
+  
+---
+
+## ⚡ Advanced Features
+
+- Developed advanced DAX measures to compute key performance metrics, including Revenue, Profit, and Profit Margin  
+- Implemented Month-over-Month (MoM) growth analysis using DAX time intelligence functions  
+- Designed custom KPI cards using HTML formatting to enhance visual presentation and user experience  
+- Improved dashboard usability and aesthetics beyond standard Power BI visuals  
+- Built interactive reports with dynamic filtering, enabling user-driven analysis and insights  
 
 ---
 
 ## 🎯 Business Problem
 
-An Indian e-commerce company was using static Excel reports. Leadership needed:
-- Which product categories drive the most revenue
-- State-wise and city-wise sales performance
-- Monthly revenue vs target tracking
-- Top customers for retention focus
+An Indian e-commerce company relied on static Excel reports, resulting in limited visibility into key performance metrics and delayed, data-driven decision-making.
+The leadership team required a dynamic analytical solution to:
+
+- Identify high-performing product categories driving overall revenue  
+- Analyze state-wise and city-wise sales performance to uncover regional trends  
+- Track monthly revenue against targets to monitor business growth  
+- Identify high-value customers to support retention and loyalty strategies  
+
+This project addresses these challenges by delivering an interactive Power BI dashboard supported by SQL-based analysis.
 
 ---
+
+## 📊 Dashboard Pages
+
+### 📈 Sales Overview
+![Sales](Images/Sales_Overview.png)
+
+### 👥 Customer Analysis
+![Customer](Images/Customer_Details.png)
+
+### 📦 Product Analysis
+![Product](Images/Product_Details.png)
+
+---
+
+## 💡 Key Insights
+
+- 📍 Maharashtra and Madhya Pradesh together contribute approximately 46% of total revenue, indicating strong market concentration in these regions  
+- 📦 Electronics category is the primary revenue driver, contributing around 38% of overall sales  
+- 👕 Clothing category delivers the highest profit margin (~8%), highlighting strong profitability potential  
+- 📉 July recorded the lowest sales, suggesting potential seasonal demand fluctuations  
+- 👥 Top 10 customers contribute approximately 21% of total revenue, indicating opportunities for targeted retention strategies  
+
+---
+
+## 📈 Business Impact
+
+- Enabled identification of high-performing regions and product categories for focused business strategies  
+- Supported optimization of marketing campaigns and inventory planning based on sales trends  
+- Improved customer targeting and retention through identification of high-value customers  
+- Facilitated data-driven decision-making through an interactive and insightful dashboard  
+
+
+
 
 ## 📁 Folder Structure
 
@@ -97,22 +160,18 @@ FROM monthly ORDER BY YM;
 
 ---
 
-## 💡 Key Insights
+## 👩‍💻 About Me
 
-| # | Insight | Action |
-|---|---------|--------|
-| 1 | Madhya Pradesh + Maharashtra = 46% of revenue | Focus marketing here |
-| 2 | Electronics leads revenue (38.3%) | Increase inventory |
-| 3 | Clothing has best profit margin (8.0%) | Promote Clothing |
-| 4 | July = lowest month (₹12,966) | Investigate seasonality |
-| 5 | Top 10 customers = 21% of revenue | Build loyalty program |
+**Jyothirmayi Lakumarapu** — Data Analyst | SQL · Power BI · Python · Excel · AI Tools  
 
----
+Data Analyst skilled in transforming raw data into actionable business insights using SQL, Power BI, and Python.  
+Experienced in building end-to-end analytical solutions, from data preparation to interactive dashboards and advanced DAX-driven insights.  
 
-## 👤 About Me
+Actively leveraging AI tools and automation to accelerate analysis, improve efficiency, and deliver scalable data solutions.  
 
-**[Lakumarapu Jyothirmayi]** — Data Analyst | SQL · Power BI · Python · Excel
-LinkedIn: [https://www.linkedin.com/in/jyothirmayi-lakumarapu-88a96a3ab/]
-Email: [jyothirmayilakumarapu@gmail.com]
+Focused on solving real-world business problems and enabling data-driven decision-making.  
+
+🔗 LinkedIn: https://www.linkedin.com/in/jyothirmayi-lakumarapu-88a96a3ab/  
+📧 Email: jyothirmayilakumarapu@gmail.com  
 
 *Dataset: Indian E-Commerce Sales Data — Kaggle (Ben Roshan)*
