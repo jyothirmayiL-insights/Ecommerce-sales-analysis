@@ -1,7 +1,9 @@
 # 📊 E-Commerce Sales Analysis — Advanced Power BI Dashboard with SQL & Excel
 
-## 📸 Dashboard Preview
+## 🔗 Project Links
+- GitHub Repository: https://github.com/your-username/Ecommerce-sales-analysis
 
+## 📸 Dashboard Preview
 ![Dashboard](Images/Sales_Overview.png)
 
 End-to-end analysis of an Indian e-commerce dataset comprising 501 orders worth ₹4.31 Lakhs, spanning 3 product categories across 20+ states.
