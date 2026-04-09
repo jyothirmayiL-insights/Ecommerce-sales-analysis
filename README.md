@@ -1,12 +1,14 @@
-# 📊 E-Commerce Sales Analysis — Advanced Power BI Dashboard with SQL & Excel
+E-Commerce Sales Analysis — Advanced Power BI Dashboard with SQL & Excel
 
-## 🔗 Project Links
-- GitHub Repository: (https://github.com/jyothirmayiL-insights/Ecommerce-sales-analysis)
+🚀 End-to-End Data Analytics Project | SQL + Power BI + Excel  
+📊 Analyzed 500+ orders worth ₹4.31L across 20+ states to identify revenue drivers, customer behavior, and regional performance trends.
+
+🔗 **[View GitHub Repository →](https://github.com/jyothirmayiL-insights/Ecommerce-sales-analysis)**
 
 ## 📸 Dashboard Preview
-![Dashboard](Images/Sales_Overview.png)
+Interactive Power BI dashboard showcasing sales performance, customer insights, and product-level analytics.
 
-End-to-end analysis of an Indian e-commerce dataset comprising 501 orders worth ₹4.31 Lakhs, spanning 3 product categories across 20+ states.
+![Dashboard](Images/Sales_Overview.png)
 
 ## 📌 Project Overview
 
